@@ -1,2 +1,2 @@
 # timetable
-timetable generator
+timetable generator based on HTML
